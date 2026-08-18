@@ -1,0 +1,11 @@
+{
+	"Name": "[Si] Si's Purple Lair UI",
+	"Author": "Si",
+	"Description": "A user interface recolor made using shades of purple from the Mutant Bug Lair.",
+	"Version": "1.0.0",
+	"UniqueID": "Si.PLUI",
+	"UpdateKeys": [ "Nexus:" ],
+	"ContentPackFor": {
+		"UniqueID": "Pathoschild.ContentPatcher"
+	},
+}
